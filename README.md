@@ -1,2 +1,2 @@
 # ZeroMQ-Example
-A use case for the [ZeroMQ](http://zeromq.org/) library. 
+A use case for the [ZeroMQ](http://zeromq.org/) library.
